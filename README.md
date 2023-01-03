@@ -32,3 +32,11 @@ Time-conflicts will be handled and the user will be notified if a course add is 
 
 After successfully adding a course, it will show on the user's calendar schedule. \
 <img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/CourseSchedule.PNG" width=900 height =320/>
+
+
+## Friend System
+Desired friends need to be searched through the search bar. \
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/SearchFriend.PNG" width=900 height =320/>
+
+Adding, removing, and accepting friends will also be separated into 3 separate tables. \
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/ShowAddFriend.PNG" width=900 height =320/>
