@@ -29,3 +29,6 @@ The user will be able to add any desired courses to their calendar. \
 
 Time-conflicts will be handled and the user will be notified if a course add is denied. \
 <img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/TimeConflict.PNG" width=900 height =320/>
+
+After successfully adding a course, it will show on the user's calendar schedule. \
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/CourseSchedule" width=900 height =320/>
