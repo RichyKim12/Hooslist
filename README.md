@@ -13,5 +13,5 @@ Yulun Wu (yw9pz), Tiffany Bui (tnb6zdz), Taylor Ney (jtn5wmp), Richard Kim (rmk9
 # Features
 ## Login:
 The first feature would be the login feature which includes both Google Oauth login as well as a regular username & password login.
-![alt text](https://github.com/RichyKim12/Hooslist/blob/readmepng/Login.png)
+![alt text](https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Login.png)
 
