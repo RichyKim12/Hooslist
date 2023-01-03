@@ -11,7 +11,7 @@ This is a cloned repo of the origianl semester long project required for the cou
 Yulun Wu (yw9pz), Tiffany Bui (tnb6zdz), Taylor Ney (jtn5wmp), Richard Kim (rmk9ds), Loudon Hurt (lch4et). 
 
 Proof of collaboration:
-<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Signup.png" width=800 height =330/>
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/OriginalRepo.png" width=800 height =330/>
 
 # Features
 ## Login:
