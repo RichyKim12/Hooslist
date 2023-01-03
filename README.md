@@ -21,7 +21,7 @@ The Sign-Up feature is similar in giving the user an option of both a Google Oau
 
 ## Search Bar:
 The Search bar allows for the user to search a class by either department name or number. 
-<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Homepage.PNG" width=380 height =320/>
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Homepage.PNG" width=900 height =320/>
 
 ## Course Scheduling
 The user will be able to add any desired courses to their calendar. \
