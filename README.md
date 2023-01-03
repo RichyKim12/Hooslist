@@ -25,7 +25,7 @@ The Search bar allows for the user to search a class by either department name o
 
 ## Course Scheduling
 The user will be able to add any desired courses to their calendar. \
-<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/AddCourseButton.PNG" width=700 height =320/>
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/AddCourseButton.PNG" width=900 height =320/>
 
 Time-conflicts will be handled and the user will be notified if a course add is denied. \
-<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/TimeConflict.PNG" width=700 height =320/>
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/TimeConflict.PNG" width=900 height =320/>
