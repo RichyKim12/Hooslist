@@ -7,8 +7,11 @@ Hooslist is a course scheduling app which includes: Google Oauth, Course catalog
 - Go to http://127.0.0.1:8000
 
 # Team A-04
-All work for this project was created by the following people: \
+This is a cloned repo of the origianl semester long project required for the course CS3240 taught by Mark Sherriff at UVA. All work for this project was created by the following people: \
 Yulun Wu (yw9pz), Tiffany Bui (tnb6zdz), Taylor Ney (jtn5wmp), Richard Kim (rmk9ds), Loudon Hurt (lch4et). 
+
+Proof of collaboration:
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Signup.png" width=800 height =330/>
 
 # Features
 ## Login:
