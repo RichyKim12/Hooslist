@@ -16,6 +16,6 @@ The first feature would be the login feature which includes both Google Oauth lo
 <img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Login.png" width=250x250/>
 ## Sign-Up:
 The Sign-Up feature is similar in giving the user an option of both a Google Oauth related sign-up or a password & username sign-up \
-<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Signup.png" width=250x300/>
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Signup.png" width=250 height =300/>
 
 
