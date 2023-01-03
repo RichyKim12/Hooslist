@@ -1,5 +1,5 @@
 # Hooslist Course Scheduling Web Application
-Hooslist is a course scheduling app which includes: Google Oauth, Course catalogue search and view, Friends System, and Course Scheduling features.
+Hooslist is a course scheduling app which includes: Google Oauth, Course catalogue search and view, Friends System, Commenting System, and Course Scheduling features.
 
 ## To run the application do the following:
 - pip install -r requirements.txt 
@@ -22,3 +22,9 @@ The Sign-Up feature is similar in giving the user an option of both a Google Oau
 ## Search Bar:
 The Search bar allows for the user to search a class by either department name or number. 
 <img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Homepage.PNG" width=380 height =320/>
+
+## Course Scheduling
+The user will be able to add any desired courses to their calendar. \
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/AddCourseButton.PNG" width=280 height =320/>
+Time-conflicts will be handled and the user will be notified if a course add is denied.
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/TimeConflict.PNG" width=380 height =320/>
