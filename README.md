@@ -21,4 +21,4 @@ The Sign-Up feature is similar in giving the user an option of both a Google Oau
 
 ## Search Bar:
 The Search bar allows for the user to search a class by either department name or number. 
-<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Homepage.ong" width=320 height =280/>
+<img src = "https://github.com/RichyKim12/Hooslist/blob/Update-ReadMe/readmepng/Homepage.PNG" width=320 height =280/>
